@@ -7,12 +7,12 @@ ul {
 }
 
 
-li.welcome {
+.welcome {
    background-color: green;
    width: 66%;
 }
 
-li.card {
+.card {
    background-color: blue;
    width: 33%;
 }
