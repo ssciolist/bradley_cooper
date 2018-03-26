@@ -20,6 +20,11 @@ li {
   align-items: center;
 }
 
+h3 {
+  margin-bottom: 0px;
+}
+
+
 .welcome {
    background-color: #4CAF50;
    width: 66%;
