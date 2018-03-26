@@ -1,9 +1,16 @@
-.material-icons {
 
-}
 
 ul {
   display: flex;
+  flex-wrap: wrap;
+  width: 66%;
+}
+
+li {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 
@@ -13,6 +20,9 @@ ul {
 }
 
 .card {
-   background-color: blue;
    width: 33%;
+}
+
+li:nth-child(2) {
+    background-color: red;
 }
