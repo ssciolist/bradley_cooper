@@ -21,7 +21,7 @@ li {
 }
 
 .welcome {
-   background-color: green;
+   background-color: #4CAF50;
    width: 66%;
 }
 
@@ -30,19 +30,23 @@ li {
 }
 
 li:nth-of-type(5n+0) {
-    background-color: red;
+    background-color: #448AFF;
 }
 
-li:nth-child(3n+0) {
-    background-color: blue;
+li:nth-child(4n+0) {
+    background-color: #FF5722;
 }
 
-li:nth-child(2n+0) {
-    background-color: coral;
+li:nth-child(6n+0) {
+    background-color: #448AFF;
 }
 
-li:nth-child(7n+0) {
-    background-color: green;
+#profile {
+  background-color: #448AFF;
+}
+
+li:nth-child(2n+3) {
+    background-color: #FFC107;
 }
 
 aside {
