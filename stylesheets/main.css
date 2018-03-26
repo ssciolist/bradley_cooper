@@ -1,3 +1,18 @@
 .material-icons {
-  
+
+}
+
+ul {
+  display: flex;
+}
+
+
+li.welcome {
+   background-color: green;
+   width: 66%;
+}
+
+li.card {
+   background-color: blue;
+   width: 33%;
 }
